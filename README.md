@@ -6,8 +6,8 @@ Tietojenkäsittelytiede, Helsingin yliopisto
 
 # Viikkoraportit
 
-[Viikko 1]()
+[Viikko 1](/viikkoraportti1.md)
 
 # Dokumentaatio 
 
-[Määrittelydokumentti]()
+[Määrittelydokumentti](/maarittelydokumentti.md)
